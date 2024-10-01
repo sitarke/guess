@@ -69,7 +69,7 @@ python start.py
 
 **安装miniconda只需要注意勾选以下这个就行，其他的一路next**
 
-<img src="C:\Users\c1784\Desktop\conda.png" alt="conda" style="zoom: 67%;" />
+<img src="conda.png" alt="conda" style="zoom: 67%;" />
 
 ###### 创建完成后 `conda activate yys`
 
