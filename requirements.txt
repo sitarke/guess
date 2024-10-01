@@ -1,0 +1,8 @@
+Pillow==9.4.0  
+paddlepaddle  
+paddleocr>=2.8.1 
+colorama
+fastapi
+uvicorn
+requests
+schedule
